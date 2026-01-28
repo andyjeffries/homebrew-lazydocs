@@ -2,7 +2,7 @@ class Lazydocs < Formula
   desc 'Lazygit-style TUI for browsing DevDocs documentation offline'
   homepage 'https://github.com/andyjeffries/lazydocs'
   url 'https://github.com/andyjeffries/lazydocs/archive/refs/tags/v0.1.0.tar.gz'
-  sha256 '6441ec802048d7d57d6eaf721a36610d4940e22b87674b0b0cf90ae0ea716723'
+  sha256 '7ef38e9bcc8a2bbcae0e88930572d9542a2d87009a5b031abdca019b68686c5a'
   license 'MIT'
   head 'https://github.com/andyjeffries/lazydocs.git', branch: 'main'
 
